@@ -1,0 +1,14 @@
+#HI{
+    color:white;
+}
+body {
+    font-family: "Anton", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    
+  }
+button{
+    border-radius: 20px;
+    height:50px;
+    Width:70px;
+}
